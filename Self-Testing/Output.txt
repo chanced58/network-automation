@@ -1,0 +1,7 @@
+CiscoRouter1 Interface Report 
+----------------------------- 
+show ip int br
+Interface                  IP-Address      OK? Method Status                Protocol
+FastEthernet0/0            10.1.1.10       YES manual up                    up      
+Loopback1                  1.1.1.1         YES manual up                    up      
+CiscoRouter1#
